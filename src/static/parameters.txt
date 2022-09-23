@@ -1,3 +1,0 @@
-user: test, password: password
-user: test, password: password
-user: test, password: password

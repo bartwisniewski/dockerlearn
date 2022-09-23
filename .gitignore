@@ -132,4 +132,4 @@ dmypy.json
 .idea/
 
 # Ignore runtime data
-.src/static/parameters.txt
+src/static/parameters.txt
