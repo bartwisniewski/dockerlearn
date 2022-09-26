@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    volumes:
+      - ./static_outside/:/app/static/
+    ports:
+      - "8000:5000"
